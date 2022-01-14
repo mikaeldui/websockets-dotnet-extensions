@@ -6,15 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>System.Net.WebSockets</RootNamespace>
-    <PackageId>MikaelDui.DotNet.Net.WebSockets.Extensions</PackageId>
+    <PackageId>MikaelDui.Net.WebSockets.Extensions</PackageId>
     <Authors>Mikael Dúi Bolinder</Authors>
-    <Product>MikaelDui.DotNet.Net.WebSockets.Extensions</Product>
+    <Product>MikaelDui.Net.WebSockets.Extensions</Product>
     <Description>This project is really awesome!</Description>
     <PackageProjectUrl>https://github.com/mikaeldui/dotnet-net-websockets-extensions</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>DotNet.Net.WebSockets.Extensions.png</PackageIcon>
     <RepositoryUrl>https://github.com/mikaeldui/dotnet-net-websockets-extensions</RepositoryUrl>
-    <PackageTags></PackageTags>
+    <PackageTags>WebSockets Extensions</PackageTags>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
   </PropertyGroup>
 
