@@ -9,7 +9,7 @@ namespace System.Net.WebSockets
 
         public static async Task<string> ReceiveStringAsync(this WebSocket webSocket, CancellationToken cancellationToken = default)
         {
-            ArraySegment<byte> buffer = new();
+            ArraySegment<byte> buffer = new(new byte[1024 * 4]);
             var result = await webSocket.ReceiveAsync(buffer, cancellationToken);
             return result.MessageType switch
             {
