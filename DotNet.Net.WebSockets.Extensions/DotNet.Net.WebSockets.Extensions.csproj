@@ -10,12 +10,13 @@
     <Authors>Mikael Dúi Bolinder</Authors>
     <Product>MikaelDui.Net.WebSockets.Extensions</Product>
     <Description>This project is really awesome!</Description>
-    <PackageProjectUrl>https://github.com/mikaeldui/dotnet-net-websockets-extensions</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/mikaeldui/websockets-dotnet-extensions</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageIcon>DotNet.Net.WebSockets.Extensions.png</PackageIcon>
-    <RepositoryUrl>https://github.com/mikaeldui/dotnet-net-websockets-extensions</RepositoryUrl>
+    <RepositoryUrl>https://github.com/mikaeldui/websockets-dotnet-extensions</RepositoryUrl>
     <PackageTags>WebSockets Extensions</PackageTags>
     <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+    <AssemblyName>MikaelDui.Net.WebSockets.Extensions</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
