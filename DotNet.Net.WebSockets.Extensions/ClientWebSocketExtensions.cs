@@ -1,4 +1,5 @@
-﻿namespace System.Net.WebSockets
+﻿// ReSharper disable UnusedMember.Global
+namespace System.Net.WebSockets
 {
     public static class ClientWebSocketExtensions
     {
